@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/selaskar/selaskar/_apis/build/status/selaskar.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/selaskar/selaskar/_build/latest?definitionId=38&branchName=refs%2Fpull%2F1%2Fmerge)
